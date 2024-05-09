@@ -1,4 +1,4 @@
-# operadoresaritmeticos
+# operadores_aritmeticos
 
 saldo = 500
 print(saldo)
